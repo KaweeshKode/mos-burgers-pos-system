@@ -49,3 +49,18 @@ body {
 }
 
 /* menu filter part */
+.menu-filter-container {
+  padding: 2rem 20rem;
+}
+
+.menu-filter-form {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  gap: 2rem;
+}
+
+.filter-form-item {
+  font-size: 1rem;
+  font-weight: 400;
+}
